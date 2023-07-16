@@ -47,11 +47,9 @@ I'm Maks Epifanov, Front End developer.
 
 ## Connect with me
 
-<a href="https://www.linkedin.com/in/maks-epifanov-39723722b/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="linkedin" /></a>
-<a href="https://twitter.com/klimov4_maks"><img src="https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white" alt="twitter" /></a>
+<a href="https://www.linkedin.com/in/max-epifanov-br/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="linkedin" /></a>
 <a href="https://t.me/maksepifanov"><img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" alt="telegram" /></a>
 <a href="mailto:maksepifanovbr@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="gmail" /></a>
-<a href="https://www.instagram.com/mob_hlop"><img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white" alt="instagram"/></a>
 
 ### If wars, then only such.
  codewars [here](https://www.codewars.com/users/MaksEpifanov)  
