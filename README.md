@@ -29,16 +29,15 @@ I'm Maks Epifanov, Front End developer.
 <a href="https://www.npmjs.com/"><img src="https://img.shields.io/badge/NPM-%23000000.svg?style=flat-square&logo=npm&logoColor=white" alt="npm" /></a>
 <a href="https://eslint.org/"><img src="https://img.shields.io/badge/ESLint-4B3263?style=flat-square&logo=eslint&logoColor=white" alt="eslint" /></a>
 
-<a href="https://archlinux.org/"><img src="https://img.shields.io/badge/Arch%20Linux-1793D1?logo=arch-linux&logoColor=fff&style=flat-square" alt="arch linux" /></a>
-<a href="https://code.visualstudio.com/"><img src="https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=flat-square&logo=visual-studio-code&logoColor=white" alt="vs code" /></a>
-<a href="https://www.lunarvim.org/"><img src="https://img.shields.io/badge/NeoVim-%2357A143.svg?&style=flat-square&logo=neovim&logoColor=white" alt="lunar vim" /></a>
-
 <details>
   <summary>More</summary>
   <a href="https://www.mongodb.com/"><img src="https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=flat-square&logo=mongodb&logoColor=white" alt="mongodb" /></a>
 <a href="https://reactrouter.com/"><img src="https://img.shields.io/badge/React_Router-CA4245?style=flat-square&logo=react-router&logoColor=white" alt="react router" /></a>
    <a href="https://www.figma.com/"><img src="https://img.shields.io/badge/Figma-%23F24E1E.svg?style=flat-square&logo=figma&logoColor=white" alt="figma" /></a>
   <a href="https://www.postman.com/"><img src="https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=postman&logoColor=white" alt="postman" /></a>
+  <a href="https://archlinux.org/"><img src="https://img.shields.io/badge/Arch%20Linux-1793D1?logo=arch-linux&logoColor=fff&style=flat-square" alt="arch linux" /></a>
+<a href="https://code.visualstudio.com/"><img src="https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=flat-square&logo=visual-studio-code&logoColor=white" alt="vs code" /></a>
+<a href="https://www.lunarvim.org/"><img src="https://img.shields.io/badge/NeoVim-%2357A143.svg?&style=flat-square&logo=neovim&logoColor=white" alt="lunar vim" /></a>
   </ul>
 </details>
 
