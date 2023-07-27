@@ -45,12 +45,6 @@ I'm Maks Epifanov, Front End developer.
   </ul>
 </details>
 
-## Connect with me
-
-<a href="https://www.linkedin.com/in/max-epifanov-br/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="linkedin" /></a>
-<a href="https://t.me/maksepifanov"><img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" alt="telegram" /></a>
-<a href="mailto:maksepifanovbr@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="gmail" /></a>
-
 ### If wars, then only such.
  codewars [here](https://www.codewars.com/users/MaksEpifanov)  
 ![My Codewarrior Profile Badge](https://www.codewars.com/users/MaksEpifanov/badges/small)
