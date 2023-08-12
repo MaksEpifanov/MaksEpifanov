@@ -40,7 +40,3 @@ I'm Maks Epifanov, Front End developer.
 <a href="https://www.lunarvim.org/"><img src="https://img.shields.io/badge/NeoVim-%2357A143.svg?&style=flat-square&logo=neovim&logoColor=white" alt="lunar vim" /></a>
   </ul>
 </details>
-
-### If wars, then only such.
- codewars [here](https://www.codewars.com/users/MaksEpifanov)  
-![My Codewarrior Profile Badge](https://www.codewars.com/users/MaksEpifanov/badges/small)
