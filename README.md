@@ -3,12 +3,7 @@
 I'm Maks Epifanov, Front End developer.
 
 - I enjoy researching new trends and learning new technologies.
-- Always improving my skills in React, Redux toolkit, Typescript, Linux.
 - My Roadmaps: Computer Science + Open Source.
-- Write to me, ready for communication and interesting discussions.
-- I also love computer games : 
-![Epic Games](https://img.shields.io/badge/-PERSLL-313131?style=flat-square&logo=epicgames&logoColor=white&)
-[![Steam](https://img.shields.io/badge/-GUDINI-000000?style=flat-square&logo=steam&logoColor=white&)](https://steamcommunity.com/profiles/76561198242817252/)
 
 ## I code with
 
