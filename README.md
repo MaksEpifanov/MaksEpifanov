@@ -2,14 +2,14 @@
 
 I'm Maks Epifanov, Front End developer.
 
-- I enjoy researching new trends and learning new technologies.
-- My Roadmaps: Computer Science + Open Source.
-
-## I code with
+### Technologies:
 
 <a href="https://html.spec.whatwg.org/"><img src="https://img.shields.io/badge/HTML5-%23E34F26.svg?style=flat-square&logo=html5&logoColor=white" alt="html5" /></a>
 <a href="https://www.w3.org/Style/CSS/"><img src="https://img.shields.io/badge/CSS3-%231572B6.svg?style=flat-square&logo=css3&logoColor=white" alt="css3" /></a>
 <a href="https://www.typescriptlang.org/"><img src="https://img.shields.io/badge/Typescript-%23007ACC.svg?style=flat-square&logo=typescript&logoColor=white" alt="typescript" /></a>
+<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript"><img src="https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=000&style=flat-square" alt="javascript" /></a>
+
+![JavaScript Badge](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=000&style=flat)
 
 <a href="https://reactjs.org/"><img src="https://img.shields.io/badge/React-%2320232a.svg?style=flat-square&logo=react&logoColor=%2361DAFB" alt="react" /></a>
 <a href="https://redux-toolkit.js.org/"><img src="https://img.shields.io/badge/Redux-%23593d88.svg?style=flat-square&logo=redux&logoColor=white" alt="redux" /></a>
